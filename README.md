@@ -26,3 +26,7 @@ npm install --save-dev eslint babel-eslint eslint-config-airbnb eslint-plugin-im
 
 **Imágenes
 npm install --save-dev file-loader
+
+**Fake API (JSON)
+sudo npm install json-server -g
+
