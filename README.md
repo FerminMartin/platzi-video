@@ -30,3 +30,6 @@ npm install --save-dev file-loader
 **Fake API (JSON)
 sudo npm install json-server -g
 
+**PropTypes
+npm install --save prop-types
+
