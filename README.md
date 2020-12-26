@@ -38,3 +38,6 @@ REACT ROUTER-REDUX
 **React Router
 npm install react-router-dom --save
 
+**Redux
+npm install redux react-redux --save
+
