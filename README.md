@@ -1,4 +1,4 @@
-PAQUETES DE DATOS USADOS PARA ESTE PROYECTO
+REACT: PAQUETES DE DATOS USADOS PARA ESTE PROYECTO
 
 ---Archivos a descargar: Para crear un Archivo de producción (antes de pasar un diseño de html y css a React)---
 
@@ -32,4 +32,9 @@ sudo npm install json-server -g
 
 **PropTypes
 npm install --save prop-types
+
+
+REACT ROUTER-REDUX
+**React Router
+npm install react-router-dom --save
 
