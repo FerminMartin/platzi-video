@@ -44,3 +44,6 @@ npm install redux react-redux --save
 **Gravatar
 npm install md5 --save
 
+**Validaciones
+npm install classnames --save
+
